@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kishizogam2106.com/sitemap.xml
